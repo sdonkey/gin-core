@@ -1,4 +1,4 @@
-module gin-core
+module github.com/sdonkey/gin-core
 
 go 1.16
 
